@@ -12,4 +12,11 @@ import {
 })
 export class AppComponent {
   name = 'Angular ' + VERSION.major;
+
+  public config: DropzoneConfigInterface = {
+    // Change this to your upload POST address:
+    url: 'https://httpbin.org/post',
+    maxFilesize: 50,
+    acceptedFiles: 'image/*',
+  };
 }
