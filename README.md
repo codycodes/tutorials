@@ -1,3 +1,3 @@
 # tutorials
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-bfebbu)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-dropzone-azure-storage)
